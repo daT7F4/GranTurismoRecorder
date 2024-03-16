@@ -6,7 +6,7 @@ Thanks to Nenkai For the original PDTools
 # How to run
 Unzip the file
 
-Go into the unzipped file 
+cd into the unzipped file 
 
 cd into PDTools.SimulatorInterfaceTestTool
 
